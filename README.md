@@ -1,4 +1,5 @@
 # Math-Concepts-for-Developers-2026
+
 The primary goal of the course is to build a foundation of mathematical knowledge. It covers topics such as working with matrices and vectors, the use and purpose of complex numbers, and the relationship between a function's derivative and velocity, all viewed through the lens of new concepts and real-life examples.
 
 
@@ -25,7 +26,6 @@ The goal in this lesson is to connect probability and combinatoric concepts as w
 
 ## Statistics
 The goal in this lesson is to connect statistical concepts with Python. Main topics covered are: descriptive and inferential statistics, sampling methods, properties of statistical distributions, visualizing data, covariance and correlation and common misconceptions.
-
 
 
 ## References
